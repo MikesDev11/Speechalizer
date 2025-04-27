@@ -1,6 +1,6 @@
 # Speechalizer
 
-This application was built during a competition at the Technical University of Munich.
+This application was built by a student at the Technical University of Munich during a competition.
 
 It **counts the number of occurrences** of a given phrase in **Xi's speeches from 2013–2023**, using reliable and standard Python 3 libraries and functionalities.  
 Additionally, it **returns the context** for the chosen phrase within a specified range, and provides a **link to the full speech**.
